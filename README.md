@@ -14,7 +14,9 @@ If you are there and the door is not open, then check whether a meeting or class
 # Interest Groups
 
 Mondays at 10 AM: Digital Text Analysis | https://github.com/fsu-pih/ig-text-analysis
+
 Wednesdays at 10 AM: Current Research reading group | https://github.com/fsu-pih/ig-dh-reading 
+
 Thursdays at 10:30 AM: Literary Geography, Digital Mapping | https://github.com/fsu-pih/ig-literary-geographies 
 
 # Contact
